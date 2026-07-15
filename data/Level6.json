@@ -1,10 +1,10 @@
 {
-    "id": 12345778,
-    "name": "Level Name Here",
+    "id": 10005001,
+    "name": "My New Level 3",
     "author": "Creator Name",
     "creators": [],
     "verifier": "Verifier Name",
-    "verification": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "percentToQualify": 100,
     "records": []
 }
